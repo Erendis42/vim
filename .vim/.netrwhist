@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/home/erendis/sage'
+let g:netrw_dirhist_2='/home/erendis/Downloads'
+let g:netrw_dirhist_3='/home/erendis/.config/terminator'
+let g:netrw_dirhist_4='/home/erendis/prg/perl/HackerRank'
+let g:netrw_dirhist_5='/home/erendis/prg/perl'
+let g:netrw_dirhist_6='/home/erendis/Music'

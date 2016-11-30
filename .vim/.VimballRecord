@@ -1,0 +1,1 @@
+Recover-0.18.vmb.vba: call delete('/home/erendis/.vim/plugin/recover.vim')|call delete('/home/erendis/.vim/autoload/recover.vim')|call delete('/home/erendis/.vim/doc/recoverPlugin.txt')
