@@ -41,7 +41,7 @@ colorscheme delek
 
 hi Normal guibg=#000000 ctermbg=236
 hi NonText guibg=#000000 ctermbg=236
-hi ColorColumn guibg=#010101 ctermbg=0
+"hi ColorColumn guibg=#010101 ctermbg=0
 hi MatchParen cterm=bold ctermbg=none ctermfg=none
 
-let &colorcolumn=join(range(81,999),",")
+"let &colorcolumn=join(range(81,999),",")
